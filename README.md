@@ -1,4 +1,4 @@
-# Hades - *JimmyMtl*
+# Hades - *JimmyMtl* - Jimmy MARTEL
 
 ### Full Stack Developer
 
